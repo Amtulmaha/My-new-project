@@ -1,3 +1,3 @@
-build a fun game # My-new-project
+create a cat picture with AI# My-new-project
 Building Ai course project
-create a game which can be fun as well as good for brain and development of skills
+creating a picture of cat playing with a ball with the help of AI
